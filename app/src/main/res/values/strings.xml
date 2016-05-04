@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SuggestionSystem</string>
+    <string name="search_hint">Search ID</string>
+    <string name="dialog_message">Choose any user from the list to see the suggestions</string>
+    <string name="suggestion_message">This is a list of suggestions in high preference first order. Some items are listed twice because they belong to different restaurents.</string>
+    <string name="suggestion_title">Suggestions Help</string>
+    <string name="dialog_title">How to use?</string>
+</resources>
